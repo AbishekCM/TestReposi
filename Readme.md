@@ -2,5 +2,6 @@
 
 this is a demo!
 
-#new text added
+#new git status
+text added
 
